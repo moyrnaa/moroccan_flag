@@ -16,7 +16,7 @@ t.pensize(8)
 t.speed(0)
 t.pencolor("green")
 
-for i in range(5):
+for i in range(5): 
     t.forward(200)
     t.right(144)
 
