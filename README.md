@@ -1,2 +1,4 @@
 # moroccan_flag
-Moroccan Flag using Python Turtle
+This is my project that creates the Moroccan flag using Python's turtle module.
+
+
